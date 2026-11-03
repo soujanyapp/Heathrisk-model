@@ -43,5 +43,4 @@ npm run dev
 - **Batch**: Drag-and-drop CSV upload, results table, CSV download
 - **Metrics**: Performance metrics with plain-English explanations
 
-**Design**: Neumorphic soft cards, cyan palette, Atkinson Hyperlegible font, WCAG AA accessible, `@phosphor-icons/react`.
 
