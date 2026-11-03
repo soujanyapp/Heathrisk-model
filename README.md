@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/fastapi-0.109-009688)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/react-18-61DAFB)](https://react.dev/)
-[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soujanyapp/Heathrisk-model.git)
 
 A full-stack healthcare application for patient readmission risk scoring with a calibrated logistic regression model.
 
