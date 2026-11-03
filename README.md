@@ -45,15 +45,3 @@ npm run dev
 
 **Design**: Neumorphic soft cards, cyan palette, Atkinson Hyperlegible font, WCAG AA accessible, `@phosphor-icons/react`.
 
-## Project Structure
-
-```
-healthcare-ml-risk-system/
-├── api/           ← FastAPI app + requirements.txt
-├── frontend/      ← React + Vite + 4 pages + 3 components
-├── models/        ← model.pkl (calibrated), model_raw.pkl (raw)
-├── scripts/       ← gen_data.py, load.py, features.py, train.py, viz.py
-└── reports/       ← metrics.json
-```
-
-Built to demonstrate production ML thinking: discrimination vs. calibration, cost-aware deployment, and full-stack delivery.
